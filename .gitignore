@@ -1,0 +1,10 @@
+# Nunca versionar conteúdo operacional
+*.zip
+*.docx
+*.xlsx
+SKILL.md
+skills/
+autos/
+.obsidian/
+Thumbs.db
+desktop.ini
